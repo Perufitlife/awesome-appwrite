@@ -247,6 +247,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 
 - [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
 - [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
+- [appwrite-security-skill](https://github.com/Perufitlife/appwrite-security-skill) - Open-source MIT auditor that probes anonymously to find "any" role grants on collections, public storage buckets, and unprotected execute-functions in your Appwrite project. Outputs an HTML report with copy-paste fix snippets. Hosted run on Apify (no install): [apify.com/renzomacar/appwrite-security-auditor](https://apify.com/renzomacar/appwrite-security-auditor).
 
 ### Appwrite Services
 
